@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:3a0ca3,50:4361ee,75:4cc9f0,100:0d1117&height=220&section=header&text=HIMANSHU%20PAL&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20Student%20%7C%20%7C%20SaaS%20Builder&descSize=20&descAlignY=58&descAlign=50" alt="Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:3a0ca3,50:4361ee,75:4cc9f0,100:0d1117&height=220&section=header&text=HIMANSHU%20PAL&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20Student%20%7C%20SaaS%20Builder&descSize=20&descAlignY=58&descAlign=50" alt="Header" width="100%">
 
   <br>
 
@@ -35,12 +35,13 @@
   &nbsp;About Me
 </h2>
 
-```yaml
+
 🎓 Role:      Student Developer & Builder
 🤖 Focus:     AI-Powered Tools & SaaS Products
 ⚡ Mission:   Learn Fast → Build Consistently → Ship & Scale
 🌍 Based:     India
 📫 Reach me:  Always open to collabs & ideas
+
 
 <br>
 "I don't just learn — I build. Every idea is a chance to ship something real."
